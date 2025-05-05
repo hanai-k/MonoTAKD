@@ -20,7 +20,7 @@ This is the official implementation of MonoTAKD which utilizes [OpenPCDet](https
 
 
 ## Framework Overview
-![image](./docs/imgs/framework.png)
+![image](./docs/imgs/framework_v2.png)
 
 ## BEV Feature Generation
 ![image](./docs/imgs/vis_bev.png)
